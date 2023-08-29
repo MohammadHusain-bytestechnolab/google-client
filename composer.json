@@ -1,4 +1,18 @@
 {
-    "name": "vendor/googleclient"
+    "name": "vendor/package-name",
+    "description": "A short description of your package.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@email.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vendor\\PackageName\\": "src/"
+        }
+    }
 }
-
