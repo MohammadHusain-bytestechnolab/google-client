@@ -1,5 +1,5 @@
 {
-    "name": "vendor/package-name",
+    "name": "custom-google/apiclient",
     "description": "A short description of your package.",
     "type": "library",
     "license": "MIT",
